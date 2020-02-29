@@ -1,8 +1,8 @@
 package AdivinaTest;
 
-import org.unit.Assert;
-import org.unit.Assert.*;
-import org.unit.test;
+import org.junit.Test;
+
+import junit.framework.Assert;
 
 
 public class AdivinaTest{
