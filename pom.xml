@@ -90,11 +90,20 @@
                <failOnMissingWebXml>false</failOnMissingWebXml>
            </configuration>
        </plugin>
+<<<<<<< HEAD
        <plugin>
            <groupId>org.apache.maven.plugins</groupId>
            <artifactId>maven-dependency-plugin</artifactId>
            <version>2.6</version>
            <executions>
+=======
+<!-- Plugin configuration for Heroku compatibility. -->
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-dependency-plugin</artifactId>
+            <version>2.6</version>
+            <executions>
+>>>>>>> 4fd393ced60086c9938d15e0882186e087fb7e69
                 <execution>
                     <phase>package</phase>
                     <goals>
