@@ -1,6 +1,6 @@
 ### Escuela Colombiana de Ingeniería
 
-### Introducción a proyectos Web
+### Integracion continua con CircleCi y Heroku
 
 ### Integrantes
 
