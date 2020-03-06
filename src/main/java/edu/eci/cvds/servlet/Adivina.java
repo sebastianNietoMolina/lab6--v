@@ -3,7 +3,6 @@ package edu.eci.cvds.servlet;
 import javax.enterprise.context.ApplicationScoped;
 import javax.enterprise.context.SessionScoped;
 import javax.faces.bean.ManagedBean;
-import org.primefaces.PrimeFaces;
 import java.util.ArrayList;
 import java.util.Random;
 
