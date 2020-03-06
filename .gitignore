@@ -1,10 +1,9 @@
 
-target
+
 .DS_Store
 /nbproject/
 bin/
 .idea/
-target/
 *.iml
 *.class
 .classpath
